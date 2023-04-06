@@ -4,12 +4,15 @@
 [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ANINHAAAC)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anapcwb@gmail.com)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/19024045-ana-paula-dos-santos)
- 
+
+
 Hi There! Mu name is Ana. I am a Brazilian Portuguese native speaker currently based in London with a Bachelor's Degree in Information Management from the Federal University of Paraná. With proficiency in English speaking, reading, and writing, I have lived and worked in Japan for almost a decade, immersing myself in the language and culture and gaining valuable insights into adapting to a new way of life. This experience has also given me a deep appreciation for Japanese culture and customs, and I have acquired conversational knowledge in the Japanese language and cultural nuances.
 
 I possess strong skills in focus and resilience, which I cultivated during my time in Japan. These skills helped me adapt to the new way of life and excel in my work, despite the challenges of living and working in a foreign country. Since relocating to London in 2015 and learning English, I have been developing my technical skills through programming courses in JavaScript, React, HTML, CSS, and Bootstrap. My career goal is to secure an entry-level job as a software engineer and further enhance my skills in the field.
 
 I'm passionate about photography, coffee, drawing, and expanding my knowledge through reading. I'm also curious about other cultures and ways of life, which has made me adaptable and open-minded.
+
+![GitHub Octocat](octocat-1680204488973.ico)
 
 ## Languages:
 
