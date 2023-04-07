@@ -1,9 +1,8 @@
 # Hi, I'm Ana Paula dos Santos! ![Github Octocat](octocat-anap.ico)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/apaula-santos/)
-[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ANINHAAAC)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anapcwb@gmail.com)
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/19024045-ana-paula-dos-santos)
+
 
 
 Hi There! Mu name is Ana. I am a Brazilian Portuguese native speaker currently based in London with a Bachelor's Degree in Information Management from the Federal University of Paraná. With proficiency in English speaking, reading, and writing, I have lived and worked in Japan for almost a decade, immersing myself in the language and culture and gaining valuable insights into adapting to a new way of life. This experience has also given me a deep appreciation for Japanese culture and customs, and I have acquired conversational knowledge in the Japanese language and cultural nuances.
